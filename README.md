@@ -1,4 +1,3 @@
-[![MasterHead](https://elasticbeanstalk-ap-southeast-1-805366489044.s3.amazonaws.com/images/uploads/2019/03/30/python-django_QhCttHZ_TqhlDil_c3F1LmU.gif)]
 <h1 align="center">Hi 👋, I'm Devtem</h1>
 <h3 align="center">A full stack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
