@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python - Django, PHP - LARAVEL**
 
 - 📫 How to reach me **teemurmirzo@gmail.com**
 
-- ⚡ Fun fact **I am pythonist**
+- ⚡ Fun fact **I know one thing - that I know nothing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
